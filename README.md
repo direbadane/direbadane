@@ -1,4 +1,4 @@
-- 👋 Hi, I’m direbadane
+- 👋 Hi, I’m Direb Adane
 - 👀 I’m interested in Front-End Web Developer passionate about crafting engaging and responsive user experiences
 - 🌱 I’m Currently diving into front-end libraries like React and Vue.js to enhance my skills and build dynamic, user-friendly web applications.
 - 💞️ I’m looking to collaborate on frontend web development projects
