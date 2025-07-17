@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Direb Adane
 - 👀 I’m interested in web devlopment.
-- 🌱 I’m Currently working on front-end libraries. 
+- 🌱 I’m Currently working on front-end. 
 - 💞️ I’m looking to collaborate on frontend web development projects.
 - 📫 How to reach me direb513@gmail.com.
 - ⚡ Fun fact:: I enjoy watching movies in my spare time.
